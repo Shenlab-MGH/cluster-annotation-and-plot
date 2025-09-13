@@ -19,7 +19,8 @@ Windows 11
 Install simple packages in Anaconda/miniconda: 
 pip install numpy pillow scipy opencv-python matplotlib
 ## Run in Spyder directly for demo
-Just change the file path
+Demo data can be found in https://drive.google.com/drive/folders/178iLlry_SljQgYjVugfMqxr445cIK59v?usp=drive_link
+And change the file path
 
 # Expect output:
 txt and Figures will be saved in defined path 
